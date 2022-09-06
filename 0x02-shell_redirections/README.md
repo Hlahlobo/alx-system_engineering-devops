@@ -16,3 +16,4 @@ a script that takes a list of words as input and prints only words that appear e
 Display lines containing the pattern “root” from the file
 Display lines containing the pattern “root” from the file
 15-countthatword
+16-whatsnext
