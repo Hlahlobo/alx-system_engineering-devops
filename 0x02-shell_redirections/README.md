@@ -23,3 +23,4 @@ Display lines containing the pattern “root” from the file
 20-hiago
 22-users_and_homes
 14-findthatword
+10-no_more_js
