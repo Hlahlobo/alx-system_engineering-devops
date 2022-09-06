@@ -17,3 +17,4 @@ Display lines containing the pattern “root” from the file
 Display lines containing the pattern “root” from the file
 15-countthatword
 16-whatsnext
+17-hidethisword
