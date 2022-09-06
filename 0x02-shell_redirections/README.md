@@ -20,3 +20,4 @@ Display lines containing the pattern “root” from the file
 17-hidethisword
 18-letteronly
 19-AZ 
+20-hiago
