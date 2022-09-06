@@ -22,3 +22,4 @@ Display lines containing the pattern “root” from the file
 19-AZ 
 20-hiago
 22-users_and_homes
+14-findthatword
