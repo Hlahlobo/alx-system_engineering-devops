@@ -27,3 +27,4 @@ Display lines containing the pattern “root” from the file
 7-file
 7-file
 6-third_line
+1-confused_smiley
