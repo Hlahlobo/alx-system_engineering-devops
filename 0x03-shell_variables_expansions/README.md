@@ -10,3 +10,4 @@
 10-love_exponent_breath
 11-binary_to_decimal
 0-alias
+100-decimal_to_hexadecimal
