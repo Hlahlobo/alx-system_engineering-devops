@@ -1,3 +1,4 @@
 0-alias
 1-hello_you
 2-path
+4-global_variables 
